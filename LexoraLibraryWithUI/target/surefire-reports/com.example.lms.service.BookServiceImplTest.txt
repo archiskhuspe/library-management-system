@@ -1,4 +1,0 @@
--------------------------------------------------------------------------------
-Test set: com.example.lms.service.BookServiceImplTest
--------------------------------------------------------------------------------
-Tests run: 16, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.159 s -- in com.example.lms.service.BookServiceImplTest

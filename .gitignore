@@ -1,0 +1,30 @@
+# Build
+target/
+*.class
+*.jar
+*.war
+*.ear
+
+# Secrets
+.env
+*.env
+token.txt
+
+# Logs
+*.log
+
+# Frontend
+node_modules/
+dist/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+*.iml
+.classpath
+.project
+.settings/
+.vscode/
