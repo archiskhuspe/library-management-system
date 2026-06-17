@@ -1,4 +1,4 @@
-# Library Management System
+# Lexora - Library Management System
 
 [![Java](https://img.shields.io/badge/Java-21-blue?logo=openjdk)](https://openjdk.org/)
 [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.2-brightgreen?logo=springboot)](https://spring.io/projects/spring-boot)
@@ -6,7 +6,7 @@
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.8-3178C6?logo=typescript)](https://www.typescriptlang.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-A full-stack library management application with a Spring Boot REST API backend and a React/TypeScript frontend. Librarians can manage books and members; members can browse the catalogue. Authentication is JWT-based with role-based access control.
+Lexora is a full-stack library management application with a Spring Boot REST API backend and a React/TypeScript frontend. Librarians can manage books and members; members can browse the catalogue. Authentication is JWT-based with role-based access control.
 
 ---
 
