@@ -1,4 +1,4 @@
-# Lexora Library Management System
+# Library Management System
 
 [![Java](https://img.shields.io/badge/Java-21-blue?logo=openjdk)](https://openjdk.org/)
 [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.2-brightgreen?logo=springboot)](https://spring.io/projects/spring-boot)
